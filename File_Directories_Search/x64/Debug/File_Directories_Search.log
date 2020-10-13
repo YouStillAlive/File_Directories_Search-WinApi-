@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Andrew\Desktop\File_Directories_Search\File_Directories_Search\Main.cpp(6,9): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+C:\Users\Andrew\Desktop\File_Directories_Search\File_Directories_Search\Main.cpp(6,9): message : None of the functions with this name in scope match the target type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5059,1): message : see declaration of 'DialogBoxParamA'
+  Search_Manager.cpp
+  Generating Code...
